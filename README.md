@@ -44,5 +44,3 @@ Este projeto tem como objetivo aplicar conceitos de SQL Server para analisar dad
 - Boas práticas de escrita SQL
 
 ---
-
-> Projeto 100% educativo, criado para fins de estudo e portfólio.
